@@ -53,7 +53,9 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=testdrive',
+		// I am adding the below code to make the mysql to work
+		//Mysql is running on port 3306 so I am mentioning it and the user_email is my db
+			'connectionString' => 'mysql:host=localhost;port=3306;dbname=user_email',
 			'emulatePrepare' => true,
 			'username' => 'root',
 			'password' => '',
