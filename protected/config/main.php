@@ -37,6 +37,7 @@ return array(
 			'allowAutoLogin'=>true,
 		),
 		// uncomment the following to enable URLs in path-format
+		//REMOVING THE COMMENTS TO SEE IF ROUTING IS WORK
 		/*
 		'urlManager'=>array(
 			'urlFormat'=>'path',

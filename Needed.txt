@@ -1,0 +1,6 @@
+http://localhost/troy/index.php?r=emailist/index
+
+Here the troy project
+index.php?
+emailist-->controller
+index-->action
